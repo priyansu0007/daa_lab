@@ -24,6 +24,13 @@ The repository is organized lab-wise, with each subfolder containing the source 
     │   ├── q4
     │   ├── q5
     │   └── q6
+    ├── lab_4
+    │   ├── q1
+    │   ├── q2
+    │   ├── q3
+    │   ├── q4
+    │   ├── q5
+    │   └── q6
     └── README.md
 
 > *The exact folder and file names may vary as more experiments are added.*
@@ -59,6 +66,18 @@ The repository is organized lab-wise, with each subfolder containing the source 
 | 4 | Strassen's Matrix Multiplication |
 | 5 | Special-Pattern Matrix Multiplication |
 | 6 | Selection Sort Analysis and Loop Invariants |
+
+
+## Lab-04 Experiments (Applications of Sorting)
+
+| Question | Topic |
+|---:|---|
+| 1 | Stable Color Sort: Grouping pairs by color while preserving numerical order |
+| 2 | Two Sum Across Sets: Finding a cross-set pair that adds up to a target |
+| 3 | k-Sum Target Finder: Recursive reduction to find k integers that sum to T |
+| 4 | Peak Party Time: Analyzing entry/exit intervals to find max simultaneous attendees |
+| 5 | Merge Intervals: Consolidating overlapping timeframes |
+| 6 | Max Interval Overlap: Identifying the single point covered by the most intervals |
 
 ---
 
@@ -122,4 +141,8 @@ The purpose of this repository is to:
 ## Author
 
 **Priyansu Kumar Mahapatra**
+<<<<<<< HEAD
 B.Tech — Computer Science and Engineering
+=======
+B.Tech — Computer Science and Engineering
+>>>>>>> bbd69b6 (add lab 4)
