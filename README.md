@@ -31,6 +31,12 @@ The repository is organized lab-wise, with each subfolder containing the source 
     │   ├── q4
     │   ├── q5
     │   └── q6
+    ├── lab_5
+    │   ├── q1
+    │   ├── q2
+    │   ├── q3
+    │   └── q4
+    ├── questions
     └── README.md
 
 > *The exact folder and file names may vary as more experiments are added.*
@@ -67,7 +73,6 @@ The repository is organized lab-wise, with each subfolder containing the source 
 | 5 | Special-Pattern Matrix Multiplication |
 | 6 | Selection Sort Analysis and Loop Invariants |
 
-
 ## Lab-04 Experiments (Applications of Sorting)
 
 | Question | Topic |
@@ -78,6 +83,15 @@ The repository is organized lab-wise, with each subfolder containing the source 
 | 4 | Peak Party Time: Analyzing entry/exit intervals to find max simultaneous attendees |
 | 5 | Merge Intervals: Consolidating overlapping timeframes |
 | 6 | Max Interval Overlap: Identifying the single point covered by the most intervals |
+
+## Lab-05 Experiments (Selection & File I/O Sorting)
+
+| Question | Topic |
+|---:|---|
+| 1 | Find the median of a list of N numbers without sorting the list (QuickSelect)[cite: 7] |
+| 2 | Find the K'th smallest element in a given list of N numbers without sorting the list[cite: 7] |
+| 3 | Implement Quick sort of N random elements stored in a file[cite: 7] |
+| 4 | Implement Heap Sort to sort N randomly generated elements stored in a file[cite: 7] |
 
 ---
 
@@ -141,8 +155,4 @@ The purpose of this repository is to:
 ## Author
 
 **Priyansu Kumar Mahapatra**
-<<<<<<< HEAD
 B.Tech — Computer Science and Engineering
-=======
-B.Tech — Computer Science and Engineering
->>>>>>> bbd69b6 (add lab 4)
