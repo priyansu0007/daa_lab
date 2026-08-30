@@ -88,10 +88,10 @@ The repository is organized lab-wise, with each subfolder containing the source 
 
 | Question | Topic |
 |---:|---|
-| 1 | Find the median of a list of N numbers without sorting the list (QuickSelect)[cite: 7] |
-| 2 | Find the K'th smallest element in a given list of N numbers without sorting the list[cite: 7] |
-| 3 | Implement Quick sort of N random elements stored in a file[cite: 7] |
-| 4 | Implement Heap Sort to sort N randomly generated elements stored in a file[cite: 7] |
+| 1 | Find the median of a list of N numbers without sorting the list (QuickSelect) |
+| 2 | Find the K'th smallest element in a given list of N numbers without sorting the list |
+| 3 | Implement Quick sort of N random elements stored in a file |
+| 4 | Implement Heap Sort to sort N randomly generated elements stored in a file |
 
 ---
 
