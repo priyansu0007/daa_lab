@@ -36,6 +36,16 @@ The repository is organized lab-wise, with each subfolder containing the source 
     │   ├── q2
     │   ├── q3
     │   └── q4
+    ├── lab_6_1
+    │   ├── q1
+    │   ├── q2
+    │   ├── q3
+    │   └── q4
+    ├── lab_6_2
+    │   ├── q1
+    │   ├── q2
+    │   ├── q3
+    │   └── q4
     ├── questions
     └── README.md
 
@@ -59,7 +69,7 @@ The repository is organized lab-wise, with each subfolder containing the source 
 | Question | Topic |
 |---:|---|
 | 1 | Dictionary Operations |
-| 2 |  Merge sort vs. modified merge sort |
+| 2 | Merge sort vs. modified merge sort |
 | 3 | Merging k sorted arrays |
 
 ## Lab-03 Experiments
@@ -93,6 +103,24 @@ The repository is organized lab-wise, with each subfolder containing the source 
 | 3 | Implement Quick sort of N random elements stored in a file |
 | 4 | Implement Heap Sort to sort N randomly generated elements stored in a file |
 
+## Lab-06.1 Experiments (Dynamic Programming)
+
+| Question | Topic |
+|---:|---|
+| 1 | Find the $n$-th Fibonacci number using Dynamic Programming (Memoization and Tabulation)[cite: 1] |
+| 2 | Implement the 0/1 Knapsack problem using Bottom-Up Dynamic Programming[cite: 1] |
+| 3 | Implement the Longest Common Subsequence (LCS) algorithm with backtracking[cite: 1] |
+| 4 | Implement Matrix Chain Multiplication and optimal parenthesization[cite: 1] |
+
+## Lab-06.2 Experiments (Arrays, Matrices, Convolution & Reversal Sorting)
+
+| Question | Topic |
+|---:|---|
+| 1 | 1D array operations and complexities (Max, largest, mean, median, std dev, mode, duplicates, reversal, partition)[cite: 1] |
+| 2 | 2D square matrix operations and complexities (Addition, multiplication, zero check, symmetry, determinant, transpose in situ, eigenvalues/eigenvectors)[cite: 1] |
+| 3 | Convolution operation on vectors of size n using $O(n \log n)$ Fast Fourier Transform (FFT)[cite: 1] |
+| 4 | Sorting via reversal procedure with an $O(n \log^2 n)$ block-rotation merge strategy[cite: 1] |
+
 ---
 
 ## Contents of Each Experiment
@@ -122,7 +150,7 @@ Depending on the experiment, a subfolder may contain:
 
     gcc filename.c -o program -lm
 
-*The -lm flag links the C math library and is required when functions such as log10(), log2(), sqrt(), or pow() are used.*
+*The -lm flag links the C math library and is required when functions such as log10(), log2(), sqrt(), or pow() (as well as complex number operations) are used.*
 
 ### Run the program
 
@@ -154,5 +182,6 @@ The purpose of this repository is to:
 
 ## Author
 
-**Priyansu Kumar Mahapatra**
-B.Tech — Computer Science and Engineering
+**Priyansu Kumar Mahapatra**  
+B.Tech — Computer Science and Engineering  
+IIIT Bhubaneswar
