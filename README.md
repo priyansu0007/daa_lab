@@ -1,77 +1,3 @@
-# Design and Analysis of Algorithms (DAA) Lab
-
-This repository contains my Design and Analysis of Algorithms (DAA) laboratory work, including C implementations, experimental data, graphs, Gnuplot scripts, and reports. 
-
-The repository is organized lab-wise, with each subfolder containing the source code and supporting files for a particular experiment.
-
-## Repository Structure
-
-    ├── lab_1
-    │   ├── q1
-    │   ├── q2
-    │   ├── q3
-    │   ├── q4
-    │   ├── q5
-    │   └── q6
-    ├── lab_2
-    │   ├── q1
-    │   ├── q2
-    │   └── q3
-    ├── lab_3
-    │   ├── q1
-    │   ├── q2
-    │   ├── q3
-    │   ├── q4
-    │   ├── q5
-    │   └── q6
-    ├── lab_4
-    │   ├── q1
-    │   ├── q2
-    │   ├── q3
-    │   ├── q4
-    │   ├── q5
-    │   └── q6
-    ├── lab_5
-    │   ├── q1
-    │   ├── q2
-    │   ├── q3
-    │   └── q4
-    ├── lab_6
-    │   ├── lab_6_1
-    │   │   ├── q1
-    │   │   ├── q2
-    │   │   ├── q3
-    │   │   └── q4
-    │   └── lab_6_2
-    │       ├── q1
-    │       ├── q2
-    │       ├── q3
-    │       └── q4
-    ├── questions
-    └── README.md
-
-> *The exact folder and file names may vary as more experiments are added.*
-
----
-
-## Lab-01 Experiments
-
-| Question | Topic |
-|---:|---|
-| 1 | Ordering functions by their asymptotic growth rates |
-| 2 | Fair vs. biased coin-toss simulation |
-| 3 | Performance comparison of optimized and unoptimized Bubble Sort |
-| 4 | Towers of Hanoi and analysis of the number of moves |
-| 5 | Finding the partition point between a run of 0s and a run of 1s |
-| 6 | Element uniqueness and duplicate detection |
-
-## Lab-02 Experiments
-
-| Question | Topic |
-|---:|---|
-| 1 | Dictionary Operations |
-| 2 | Merge sort vs. modified merge sort |
-| 3 | Merging k sorted arrays |
 
 ## Lab-03 Experiments
 
@@ -121,6 +47,18 @@ The repository is organized lab-wise, with each subfolder containing the source 
 | 2 | 2D square matrix operations and complexities (Addition, multiplication, zero check, symmetry, determinant, transpose in situ, eigenvalues/eigenvectors) |
 | 3 | Convolution operation on vectors of size n using $O(n \log n)$ Fast Fourier Transform (FFT) |
 | 4 | Sorting via reversal procedure with an $O(n \log^2 n)$ block-rotation merge strategy |
+
+## Lab-07 Experiments (Algorithm Application Puzzles)
+
+| Question | Topic |
+|---:|---|
+| 1 | **Invert the coin-triangle:** Determine the minimum number of moves to flip a triangle of coins upside down by sliding one coin at a time. |
+| 2 | **Super egg testing experiment:** Find the minimum guaranteed number of droppings to determine the highest safe floor using dynamic programming. |
+| 3 | **Reve's puzzle:** Transfer $n$ disks across four pegs using minimum moves (Frame-Stewart Algorithm). |
+| 4 | **Security switches:** Find the minimum sequence of toggles to turn off a row of $n$ interdependent security switches. |
+| 5 | **Hitting a moving target:** Design a guaranteed sequence of shots to hit a target moving between adjacent hiding spots. |
+| 6 | **The best time to be alive:** Find the year when the largest number of prominent scientists were alive simultaneously using a line sweep algorithm. |
+| 7 | **Matrix Chain Multiplication (MCM):** Determine the minimum number of scalar multiplications required to multiply a chain of matrices. |
 
 ---
 
