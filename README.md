@@ -1,3 +1,85 @@
+# Design and Analysis of Algorithms (DAA) Lab
+
+This repository contains my Design and Analysis of Algorithms (DAA) laboratory work, including C implementations, experimental data, graphs, Gnuplot scripts, and reports. 
+
+The repository is organized lab-wise, with each subfolder containing the source code and supporting files for a particular experiment.
+
+## Repository Structure
+
+    ├── lab_1
+    │   ├── q1
+    │   ├── q2
+    │   ├── q3
+    │   ├── q4
+    │   ├── q5
+    │   └── q6
+    ├── lab_2
+    │   ├── q1
+    │   ├── q2
+    │   └── q3
+    ├── lab_3
+    │   ├── q1
+    │   ├── q2
+    │   ├── q3
+    │   ├── q4
+    │   ├── q5
+    │   └── q6
+    ├── lab_4
+    │   ├── q1
+    │   ├── q2
+    │   ├── q3
+    │   ├── q4
+    │   ├── q5
+    │   └── q6
+    ├── lab_5
+    │   ├── q1
+    │   ├── q2
+    │   ├── q3
+    │   └── q4
+    ├── lab_6
+    │   ├── lab_6_1
+    │   │   ├── q1
+    │   │   ├── q2
+    │   │   ├── q3
+    │   │   └── q4
+    │   └── lab_6_2
+    │       ├── q1
+    │       ├── q2
+    │       ├── q3
+    │       └── q4
+    ├── lab_7
+    │   ├── q1
+    │   ├── q2
+    │   ├── q3
+    │   ├── q4
+    │   ├── q5
+    │   ├── q6
+    │   └── q7
+    ├── questions
+    └── README.md
+
+> *The exact folder and file names may vary as more experiments are added.*
+
+---
+
+## Lab-01 Experiments
+
+| Question | Topic |
+|---:|---|
+| 1 | Ordering functions by their asymptotic growth rates |
+| 2 | Fair vs. biased coin-toss simulation |
+| 3 | Performance comparison of optimized and unoptimized Bubble Sort |
+| 4 | Towers of Hanoi and analysis of the number of moves |
+| 5 | Finding the partition point between a run of 0s and a run of 1s |
+| 6 | Element uniqueness and duplicate detection |
+
+## Lab-02 Experiments
+
+| Question | Topic |
+|---:|---|
+| 1 | Dictionary Operations |
+| 2 | Merge sort vs. modified merge sort |
+| 3 | Merging k sorted arrays |
 
 ## Lab-03 Experiments
 
