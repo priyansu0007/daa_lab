@@ -55,6 +55,16 @@ The repository is organized lab-wise, with each subfolder containing the source 
     │   ├── q5
     │   ├── q6
     │   └── q7
+    ├── lab_8
+    │   ├── q1
+    │   ├── q2
+    │   ├── q3
+    │   ├── q4
+    │   ├── q5
+    │   ├── q6
+    │   ├── q7
+    │   ├── q8
+    │   └── q9
     ├── questions
     └── README.md
 
@@ -141,6 +151,20 @@ The repository is organized lab-wise, with each subfolder containing the source 
 | 5 | **Hitting a moving target:** Design a guaranteed sequence of shots to hit a target moving between adjacent hiding spots. |
 | 6 | **The best time to be alive:** Find the year when the largest number of prominent scientists were alive simultaneously using a line sweep algorithm. |
 | 7 | **Matrix Chain Multiplication (MCM):** Determine the minimum number of scalar multiplications required to multiply a chain of matrices. |
+
+## Lab-08 Experiments (Advanced Dynamic Programming & Sequences)
+
+| Question | Topic |
+|---:|---|
+| 1 | **Minimum Coin Change:** Find the minimum number of coins required to make a given value. |
+| 2 | **Coin Change (Total Ways):** Determine the total number of distinct ways to make a given value. |
+| 3 | **Longest Common Subsequence (LCS):** Find the length of the longest subsequence present in two distinct strings. |
+| 4 | **Longest Increasing Subsequence (LIS):** Determine the length of the longest strictly increasing subsequence in an array. |
+| 5 | **Maximum Sum Increasing Subsequence:** Find the maximum possible sum of a strictly increasing subsequence within an array. |
+| 6 | **Edit Distance with Traceback:** Compute the minimum operations to transform one string into another and reconstruct the exact sequence of operations. |
+| 7 | **Rod Cutting with Reconstruction:** Determine the maximum revenue obtainable by cutting a rod and trace back the optimal piece lengths. |
+| 8 | **Optimal Binary Search Trees (OBST):** Calculate the minimum expected search cost of a binary search tree given successful and unsuccessful search probabilities. |
+| 9 | **Collatz Conjecture Analysis:** Simulate the $3n+1$ sequence, handle dynamic memory reallocation, and find the longest trajectory in a given interval. |
 
 ---
 
