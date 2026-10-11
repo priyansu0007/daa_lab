@@ -65,6 +65,16 @@ The repository is organized lab-wise, with each subfolder containing the source 
     │   ├── q7
     │   ├── q8
     │   └── q9
+    ├── lab_9
+    │   ├── q1
+    │   ├── q2
+    │   ├── q3
+    │   ├── q4
+    │   ├── q5
+    │   ├── q6
+    │   ├── q7
+    │   ├── q8
+    │   └── q9
     ├── questions
     └── README.md
 
@@ -166,26 +176,40 @@ The repository is organized lab-wise, with each subfolder containing the source 
 | 8 | **Optimal Binary Search Trees (OBST):** Calculate the minimum expected search cost of a binary search tree given successful and unsuccessful search probabilities. |
 | 9 | **Collatz Conjecture Analysis:** Simulate the $3n+1$ sequence, handle dynamic memory reallocation, and find the longest trajectory in a given interval. |
 
+## Lab-09 Experiments (Greedy Strategies & Priority Queues)
+
+| Question | Topic |
+|---:|---|
+| 1 | **Fractional Knapsack with Deterioration:** Determine optimal scheduling and fractional item choices to maximize total value considering decay rates. |
+| 2 | **Canonical Huffman Coding:** Construct a prefix-free binary code of minimum expected length ordered lexicographically. |
+| 3 | **Minimum Initial Fuel:** Find the minimum number of refueling stops required to reach a target using a reverse greedy Max-Heap approach. |
+| 4 | **Minimum Cost to Connect Sticks:** Combine array lengths using a Min-Heap to minimize the cumulative connection cost. |
+| 5 | **Candy Distribution:** Distribute minimum total candies subject to bi-directional rating slope constraints. |
+| 6 | **String Reorganization:** Use a Cooldown Queue and Max-Heap to rearrange identical characters at least K distance apart. |
+| 7 | **Array Deviation Minimization:** Transform arrays using two-way parity operations (multiply odds, divide evens) alongside a greedy Max-Heap. |
+| 8 | **Meeting Rooms Simulation:** Apply a two-pointer chronological sweep to find the peak number of overlapping intervals. |
+| 9 | **Hu-Tucker Simulation:** Construct an optimal alphabetic binary search tree by recursively merging compatible minimum weights. |
+
 ---
 
 ## Contents of Each Experiment
 
 Depending on the experiment, a subfolder may contain:
 
-*   **.c** — C source code
-*   **.plt** — Gnuplot script used to generate graphs
-*   **.txt** or **.csv** — Experimental data
-*   **.png** — Generated graph or visualization
-*   **.md** — Explanation of the approach, observations, and complexity analysis
+-   **.c** — C source code
+-   **.plt** — Gnuplot script used to generate graphs
+-   **.txt** or **.csv** — Experimental data
+-   **.png** — Generated graph or visualization
+-   **.md** — Explanation of the approach, observations, and complexity analysis
 
 ---
 
 ## Tools Used
 
-*   **C** — Algorithm implementation and simulation
-*   **GCC** — Compilation
-*   **Gnuplot** — Graph generation
-*   **Markdown** — Documentation and analysis
+-   **C** — Algorithm implementation and simulation
+-   **GCC** — Compilation
+-   **Gnuplot** — Graph generation
+-   **Markdown** — Documentation and analysis
 
 ---
 
@@ -212,18 +236,18 @@ Depending on the experiment, a subfolder may contain:
 ## Purpose
 
 The purpose of this repository is to:
-*   Implement algorithms in C
-*   Study algorithm correctness and efficiency
-*   Compare empirical and theoretical performance
-*   Analyze time and space complexity
-*   Visualize algorithmic behavior using graphs
-*   Maintain organized documentation for DAA lab experiments
+-   Implement algorithms in C
+-   Study algorithm correctness and efficiency
+-   Compare empirical and theoretical performance
+-   Analyze time and space complexity
+-   Visualize algorithmic behavior using graphs
+-   Maintain organized documentation for DAA lab experiments
 
 ## Notes
 
-*   Each experiment is stored in a separate subfolder for easier navigation.
-*   Generated data and graphs are included whenever they are useful for analysis.
-*   Complexity results describe asymptotic behavior; constants and lower-order terms may affect practical performance but do not change the Big-O growth class.
+-   Each experiment is stored in a separate subfolder for easier navigation.
+-   Generated data and graphs are included whenever they are useful for analysis.
+-   Complexity results describe asymptotic behavior; constants and lower-order terms may affect practical performance but do not change the Big-O growth class.
 
 ## Author
 
