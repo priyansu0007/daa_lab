@@ -75,6 +75,12 @@ The repository is organized lab-wise, with each subfolder containing the source 
     │   ├── q7
     │   ├── q8
     │   └── q9
+    ├── lab_10
+    │   ├── q1
+    │   ├── q2
+    │   ├── q3
+    │   ├── q4
+    │   └── q5
     ├── questions
     └── README.md
 
@@ -189,6 +195,16 @@ The repository is organized lab-wise, with each subfolder containing the source 
 | 7 | **Array Deviation Minimization:** Transform arrays using two-way parity operations (multiply odds, divide evens) alongside a greedy Max-Heap. |
 | 8 | **Meeting Rooms Simulation:** Apply a two-pointer chronological sweep to find the peak number of overlapping intervals. |
 | 9 | **Hu-Tucker Simulation:** Construct an optimal alphabetic binary search tree by recursively merging compatible minimum weights. |
+
+## Lab-10 Experiments (Disjoint Set Union & Connected Components)
+
+| Question | Topic |
+|---:|---|
+| 1 | **Online Graph-Bipartiteness Testing:** Maintain dynamic graph bipartiteness and detect odd cycles online using parity-augmented DSU with path compression. |
+| 2 | **Dynamic Connected Components in a Grid (Number of Islands II):** Track active 4-directionally connected land components under dynamic cell arrivals using coordinate flattening and DSU. |
+| 3 | **Maximum Weight Component with Size Constraints:** Maintain the maximum total component vertex weight subject to size threshold $K$ using DSU and a lazy-deletion Max-Heap. |
+| 4 | **Reverse Time-Step DSU Application:** Offline decremental component sum queries under sequential vertex deletions via time-reversal dynamic edge unions. |
+| 5 | **Lexicographically Smallest Connected Component Permutation:** Greedily reconstruct the minimal permutation achievable through allowable swap equivalence classes using DSU and component sorting. |
 
 ---
 
